@@ -1,0 +1,6 @@
+{
+  "name": "Thathuyyy Birthday Celebration",
+  "description": "An interactive, beautiful, and fully mobile-responsive 17th birthday card filled with music, sweet memories, reasons for love, and interactive canvas elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
